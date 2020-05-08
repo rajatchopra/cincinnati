@@ -1,0 +1,10 @@
+{
+	"kind": "cincinnati-metadata-v0",
+	"version": "0.0.4",
+	"previous": [
+		"0.0.3"
+	],
+	"metadata": {
+                "actual_path": "the_real_actual_path"
+        }
+}
